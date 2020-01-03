@@ -1,4 +1,4 @@
-Get Windows VirtualBox VM IPs via VirtualBox guestcontrol
+Get VirtualBox VM IPs via VirtualBox guestcontrol
 
 ## Usage
 
